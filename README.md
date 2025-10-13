@@ -1,5 +1,5 @@
 # 💫  A Bit About Me:
-📚 I'm currently learning advanced full-stack development and new web technologies<br>🎯 Goals: To become a top-tier software developer and continuously improve my coding skills<br>🎲 Fun fact: I have a passion for both coding and MMA—so I can debug code by day and throw kicks by night! 💻🥋
+📚 I'm Currently learning mobile app development.<br>🎯 Goals: To become a top-tier software developer and continuously improve my coding skills<br>🎲 Fun fact: I have a passion for both coding and MMA—so I can debug code by day and throw kicks by night! 💻🥋
 
 
 ## 🌐 Socials:
