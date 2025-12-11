@@ -1,4 +1,4 @@
-# 💫  A Bit About Me:
+#   A Bit About Me:
 📚 I'm Currently learning mobile app development.<br>🎯 Goals: To become a top-tier software/mobile apps  developer and continuously improve my coding skills<br>🎲 Fun fact: I have a passion for both coding and MMA—so I can debug code by day and throw kicks by night! 💻🥋
 
 
